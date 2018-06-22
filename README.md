@@ -1,4 +1,4 @@
 # myself-3dword-software-common-library
 
 
-light
+sun light ...
