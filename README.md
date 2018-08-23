@@ -3,10 +3,10 @@
 
 sun light ...
 
->>map edit...
->XYZ
->XZY
->YXZ
->YZX
->ZXY
->ZYX
+>>map edit...          </br>
+>XYZ                   </br>
+>XZY                   </br>
+>YXZ                   </br>
+>YZX                   </br>
+>ZXY                   </br>
+>ZYX                   </br>
