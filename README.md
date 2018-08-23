@@ -2,3 +2,11 @@
 
 
 sun light ...
+
+>>map edit...
+>XYZ
+>XZY
+>YXZ
+>YZX
+>ZXY
+>ZYX
