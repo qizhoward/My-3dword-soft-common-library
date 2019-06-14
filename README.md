@@ -10,3 +10,8 @@ sun light ...
 >>YZX                   </br>
 >>ZXY                   </br>
 >>ZYX                   </br>
+
+
+>
+>坐标的计算方法:
+>
