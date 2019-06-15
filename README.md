@@ -64,8 +64,8 @@ WebGL的网页图形编程思想：                                             
 ![image](https://github.com/qizhoward/myself-3dword-soft-common-library/blob/master/Image/透明3.png)
 ![image](https://github.com/qizhoward/myself-3dword-soft-common-library/blob/master/Image/透明4.png)
 
-用1个三阶魔方棋盘叠加法构建图形:
-计算显示最大值与二次显示值,实现快速地理呈现,快速图形的构建
+    用1个三阶魔方棋盘叠加法构建图形:
+    计算显示最大值与二次显示值,实现快速地理呈现,快速图形的构建
         
         19*19 = 361       19^3=6859
         20*20 = 400       20^3=8000
