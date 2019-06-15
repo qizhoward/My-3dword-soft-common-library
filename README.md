@@ -58,9 +58,11 @@ WebGL的网页图形编程思想：                                             
 ![image](https://github.com/qizhoward/myself-3dword-soft-common-library/blob/master/Image/3.PNG)      
 ![image](https://github.com/qizhoward/myself-3dword-soft-common-library/blob/master/Image/4.PNG)      
 
+反人类图:                                                                       </br>
 
-
-
+![image](https://github.com/qizhoward/myself-3dword-soft-common-library/blob/master/Image/透明2.png)
+![image](https://github.com/qizhoward/myself-3dword-soft-common-library/blob/master/Image/透明3.png)
+![image](https://github.com/qizhoward/myself-3dword-soft-common-library/blob/master/Image/透明4.png)
 
 
 
