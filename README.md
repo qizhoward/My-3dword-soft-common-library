@@ -57,12 +57,15 @@ WebGL的网页图形编程思想：                                             
 ![image](https://github.com/qizhoward/myself-3dword-soft-common-library/blob/master/Image/2.PNG)      
 ![image](https://github.com/qizhoward/myself-3dword-soft-common-library/blob/master/Image/3.PNG)      
 ![image](https://github.com/qizhoward/myself-3dword-soft-common-library/blob/master/Image/4.PNG)      
+![image](https://github.com/qizhoward/myself-3dword-soft-common-library/blob/master/Image/5.PNG) 
+
 
 反人类图:                                                                       </br>
 
 ![image](https://github.com/qizhoward/myself-3dword-soft-common-library/blob/master/Image/透明2.png)
 ![image](https://github.com/qizhoward/myself-3dword-soft-common-library/blob/master/Image/透明3.png)
 ![image](https://github.com/qizhoward/myself-3dword-soft-common-library/blob/master/Image/透明4.png)
+![image](https://github.com/qizhoward/myself-3dword-soft-common-library/blob/master/Image/透明5.png)
 
     用1个三阶魔方棋盘叠加法构建图形:
     计算显示最大值与二次显示值,实现快速地理呈现,快速图形的构建
