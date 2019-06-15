@@ -64,6 +64,24 @@ WebGL的网页图形编程思想：                                             
 ![image](https://github.com/qizhoward/myself-3dword-soft-common-library/blob/master/Image/透明3.png)
 ![image](https://github.com/qizhoward/myself-3dword-soft-common-library/blob/master/Image/透明4.png)
 
-
-
-
+用1个三阶魔方棋盘叠加法构建图形:
+计算显示最大值与二次显示值,实现快速地理呈现,快速图形的构建
+        
+        19*19 = 361       19^3=6859
+        20*20 = 400       20^3=8000
+        22*22 = 484       22^3=10648
+        
+                          16^3=4096
+        １个三阶魔方,计算立方体,体积                  
+        10648-4096-2=6550
+        6859-6550=309 误
+        则实际22^3-16^3-19^3-2
+        
+        在以前,此方法不适用于提高精准度,
+        
+        如果多个魔方累加,
+        如果多个多级魔方叠加,
+        
+          
+                        
+                                                                                  
