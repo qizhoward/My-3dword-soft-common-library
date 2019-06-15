@@ -43,7 +43,7 @@ OpenGL投影思想：                                                     </br>
 包含三角函数的变换矩阵思想                                             </br>
 
 ![image](https://github.com/qizhoward/myself-3dword-soft-common-library/blob/master/投影与矩阵.png)
-
+![image](https://github.com/qizhoward/myself-3dword-soft-common-library/blob/master/投影与矩阵2.png)
 
 OpenGLes应用于移动通讯的图形编程：                                     </br>
 WebGL的网页图形编程思想：                                             </br>
