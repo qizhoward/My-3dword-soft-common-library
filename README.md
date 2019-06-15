@@ -54,8 +54,9 @@ WebGL的网页图形编程思想：                                             
 我这种的新的计算方法及定位方法：                                        </br>
 双重压缩,高效利用缓存                                                 </br>
 
-      
-
+![image](https://github.com/qizhoward/myself-3dword-soft-common-library/blob/master/2.png)      
+![image](https://github.com/qizhoward/myself-3dword-soft-common-library/blob/master/3.png)      
+![image](https://github.com/qizhoward/myself-3dword-soft-common-library/blob/master/4.png)      
 
 
 
