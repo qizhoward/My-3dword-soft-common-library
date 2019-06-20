@@ -104,3 +104,7 @@ WebGL的网页图形编程思想：                                             
         
         3D打印机的速度最快5分钟克隆一个
         361*12=4332个点打印完最快不到5分钟
+        
+![image](https://github.com/qizhoward/myself-3dword-soft-common-library/blob/master/Image/001.PNG)
+![image](https://github.com/qizhoward/myself-3dword-soft-common-library/blob/master/Image/003change.png)
+![image](https://github.com/qizhoward/myself-3dword-soft-common-library/blob/master/Image/002change.png)
