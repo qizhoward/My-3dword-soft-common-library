@@ -128,6 +128,8 @@ WebGL的网页图形编程思想：                                             
 
         －－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－
         
+ ![image](https://github.com/qizhoward/myself-3dword-soft-common-library/blob/master/Image/百度图.png)       
+ 
         19*19
         
         
