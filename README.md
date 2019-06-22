@@ -128,9 +128,14 @@ WebGL的网页图形编程思想：                                             
 
         －－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－
         
- ![image](https://github.com/qizhoward/myself-3dword-soft-common-library/blob/master/Image/百度图.png)       
- 
-        19*19
+ ![image](https://github.com/qizhoward/myself-3dword-soft-common-library/blob/master/Image/百度图.PNG)       
         
+       
+        10*10 亿 十亿
+        19*19 十万万亿,十亿亿 百万万亿,百亿亿 
+        22*22 万万万亿,万亿亿 十万万万亿,十万亿亿
         
-        
+        个 十 百 千 万 十万 百万 千万 亿 
+        十亿 百亿 千亿 万亿 十万亿 百万亿 千万亿 万万亿,亿亿 
+        十万万亿,十亿亿 百万万亿,百亿亿 
+        千万万亿,千亿亿 万万万亿,万亿亿 十万万万亿,十万亿亿
